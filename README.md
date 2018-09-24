@@ -1,6 +1,6 @@
 # hello-world
 Hi
 Change
-this is not the same anymore
-whaat?s
-bananas
+Okay here come some features:
+this is a smiley: 
+:)
