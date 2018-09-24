@@ -1,6 +1,6 @@
 # hello-world
 Hi
-Change
 Okay here come some features:
-this is a smiley: 
-:)
+this is not a smiley: 
+:P
+Tadaa
