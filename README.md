@@ -1,6 +1,7 @@
 # hello-world
 Hi
-Change
 Okay here come some features:
-this is a smiley: 
-:)
+Change more
+this is no longer a smiley: 
+:POO
+>L
